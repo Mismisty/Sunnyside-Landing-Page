@@ -80,8 +80,7 @@ body {
     right: 0.2rem;
     top: 1.1em;
     padding: 1em;
-  /*  z-index: 2;*/
-   /* opacity: 1;*/
+  
 }
 
 
@@ -122,14 +121,15 @@ body {
 
  .menu ul {
     padding: 1em;
-   
 }
+
 .menu li {
     margin-top: 2.5em;
     list-style: none;
     text-align: center;
     
 }
+
 .menu a {
     font-size: 18px;
     text-decoration: none;
@@ -143,7 +143,7 @@ body {
     display: none;
 }
 
-.triangle{         /* TO CREATE A POINT*/
+.triangle  {         /* TO CREATE A POINT*/
     position: absolute;
     width: 0;
     height: 0;
@@ -257,7 +257,7 @@ body {
     padding: 1em;
 }
 
-.stand-out-btn{
+.stand-out-btn {
     font-family: var(--Font-FamilyF);
     font-size: 1.5em;
     font-weight: var(--WeightF);
@@ -271,7 +271,7 @@ body {
     text-transform: uppercase;
 }
 
-.stand-out-btn:after{
+.stand-out-btn:after {
     content:'';
     width: 39%;
     display: block;
@@ -310,7 +310,7 @@ body {
     color: var(--Darkdesaturatedcyan);
 }
 
-.photo{
+.photo {
     color:  hsl(198, 62%, 26%);
 }
 
@@ -318,7 +318,7 @@ body {
 *!--------------TESTIMONIALS-------------------
 */
 
-.testimonials{
+.testimonials {
     margin-top: 4em;
 }
 
@@ -338,7 +338,7 @@ body {
     width: 20%;
 }
 
-.testimonials1{
+.testimonials1 {
     font-family: var(--Font-FamilyB);
     font-size: 20px;
     font-weight: var(--WeightsB);
@@ -394,7 +394,7 @@ footer {
 
 }
 
-.footer-logo{
+.footer-logo {
    width: 15em;
    filter: brightness(0) invert(39%) sepia(67%) saturate(323%) hue-rotate(118deg) brightness(90%) contrast(90%);
    
@@ -497,7 +497,7 @@ footer {
         
      }
 
-     .arrow1{
+     .arrow1 {
         font-size: 3.9em;
         margin-left: 10.5em;
         margin-top: 1.9em;
@@ -510,7 +510,7 @@ footer {
         margin-top: 8em;
     }
  
-     .triangle{
+     .triangle {
          display: none;
      }
 
@@ -523,11 +523,11 @@ footer {
      }
  
 
-    .img-mobile-header{
+    .img-mobile-header {
         display: none;
     }
 
-    .img-desktop-header{
+    .img-desktop-header {
         display: block;
         width: 100%;
         
