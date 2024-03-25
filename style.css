@@ -690,7 +690,15 @@ footer {
         flex: 25%;
         width: 20.8em;
      }
+    
+    .footer-logo {
+        margin-top: 1.5em;
+        
+    }
 
+    .social-media {
+        margin-top: -0.5em;
+    }
      
 
     }
