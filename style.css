@@ -659,7 +659,7 @@ footer {
      **/
    
      .clients {
-        margin-top: 5em;
+        margin-top: 8em;
         width: 3.5em;
      }
 
@@ -668,6 +668,7 @@ footer {
      }
 
      .testimonials h3 {
+         margin-top: 3em;
         position: absolute;
         left: 50%;
         transform: translateX(-50%);
