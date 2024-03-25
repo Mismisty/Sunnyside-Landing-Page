@@ -173,7 +173,7 @@ body {
                 *?--------------------MAIN CONTAINER----------------------
 **/
 
-.img-desktop {
+.img-desktop, .desktop-egg {
     display: none;
 }
 
@@ -496,6 +496,9 @@ footer {
         background-color: rgba(255, 255, 255, 0.3);
         
      }
+    .arrow {
+        margin-top: 3em;
+    }
 
      .arrow1 {
         font-size: 3.9em;
@@ -507,7 +510,7 @@ footer {
 
     .pointing-arrow {
         margin-left: 25em;
-        margin-top: 8em;
+        margin-top: 6em;
     }
  
      .triangle {
@@ -543,6 +546,11 @@ footer {
         flex-direction: row-reverse;
      }
 
+        .desktop-egg {
+            margin-top: 3.3em;
+            display: block;
+        }
+
      .flex-item {
         margin-top: 4em;
         margin-left: 5em;
@@ -553,7 +561,11 @@ footer {
         text-align: left;
         margin-left: 0.5em;
      }
-
+            
+            
+    .transform-button {
+        margin-top: 0.5em;
+    }
      .flex-item p {
         text-align: left;
         padding-right: 4em;
@@ -592,10 +604,12 @@ footer {
      }
 
      .flex h2, .stand-out-btn {
+         margin-top: 1.5em;
         text-align: left;
         display: inline-block;
 
      }
+    
 
      .flex p {
         text-align: left;
@@ -603,6 +617,7 @@ footer {
 
      .stand-out-btn {
         padding-left: 1em;
+         margin-top: -1em;
         
      }
 
@@ -666,13 +681,14 @@ footer {
 
      .gallery{
         display: flex;
+         margin-top: 16em;
         
        
      }
 
     .gallery .img-desktop{
         flex: 25%;
-        width: 276px;
+        width: 20.8em;
      }
 
      
