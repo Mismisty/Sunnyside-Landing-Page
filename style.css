@@ -549,6 +549,8 @@ footer {
         .desktop-egg {
             margin-top: 3.3em;
             display: block;
+            width: 100%;
+            
         }
 
      .flex-item {
